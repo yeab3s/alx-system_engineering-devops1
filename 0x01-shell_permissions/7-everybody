@@ -1,2 +1,2 @@
 #!/bin/bash
-choms +111 hello
+chomd +111 hello
