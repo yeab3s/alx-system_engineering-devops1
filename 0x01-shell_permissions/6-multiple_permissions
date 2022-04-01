@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -rwxr-xr-- hello
+chmod 001 001 101 hello
